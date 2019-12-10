@@ -1,6 +1,8 @@
 # Roman Numerals
 Nicklas Envall
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/ec103f628e5c14377e96/maintainability)](https://codeclimate.com/github/Nicklas766/RomanNumeral/maintainability)
+
 This project solves the main challenge and also one extra material challenge (opposite direction). The project is created from scratch with NPM (npm init). Jest and ESlint (follows Airbnb's style guide) is used for testing.
 
 Installing dependencies:
